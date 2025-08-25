@@ -1,0 +1,9 @@
+{
+  "settings": { "playerFireMs": 260, "spawnPerMin": 50 },
+  "levels": [
+    { "enemySpeedMul": 1.00, "spawnMul": 1.00, "drop": 0.06 },
+    { "enemySpeedMul": 1.15, "spawnMul": 1.12, "drop": 0.07 },
+    { "enemySpeedMul": 1.30, "spawnMul": 1.24, "drop": 0.08 },
+    { "enemySpeedMul": 1.45, "spawnMul": 1.36, "drop": 0.10 }
+  ]
+}
